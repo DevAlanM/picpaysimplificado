@@ -1,4 +1,4 @@
-# Objetivo: PicPay Simplificado (Desafio OpenSource da empresa PicPay, realizado somente com foco em adquirir novos conhecimntos e desafios)
+# Objetivo: PicPay Simplificado (Desafio OpenSource da empresa PicPay, realizado somente com foco em adquirir novos conhecimentos e desafios)
 ======================================================================================
 ## Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam transferências entre eles. Vamos nos atentar somente ao fluxo de transferência entre dois usuários.
 #
@@ -16,4 +16,4 @@
 ## Stacks aprimoradas
 ### Utilizado Java Spring Boot com o Maven, H2 database, Tratamento de erros, pensamento lógico, estruturação de pastas e responsabilidades na API RestFull, Mapeamento, testes realizados no Postman
 #
-#### OBS: Ficou como obstaculo somente  a comunicação da notificação onde a url stá indisponivel e ao referenciar a mesma ocorre um erro de timeout, tive que adaptar !!
+#### OBS: Ficou como obstáculo somente  a comunicação da notificação onde a url está indisponivel e ao referenciar a mesma ocorre um erro de timeout, tive que adaptar !!
